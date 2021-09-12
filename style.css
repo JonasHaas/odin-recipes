@@ -1,0 +1,21 @@
+body {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+h1  {
+    text-transform: uppercase;
+}
+
+a {
+    display: block;
+    color: #fff;
+    font-size: 19px;
+    transition: all .3s ease;
+    margin: 0 0 1rem 0;
+}
+
+a:hover {
+    color: hotpink;
+}
